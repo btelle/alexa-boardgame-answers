@@ -1,0 +1,17 @@
+EQUPIMENT_TYPE
+Dice
+Cards
+Blocks
+Houses
+Dollars
+
+BOARD_GAME_NAMES
+Pandemic
+Monopoly
+Ticket To Ride
+Parcheesi
+Boss Monster
+Exploding Kittens
+
+GAME_RULE_TYPES
+guess in any room

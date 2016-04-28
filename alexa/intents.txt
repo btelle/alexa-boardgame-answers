@@ -1,0 +1,61 @@
+{
+	"intents":[
+		{
+			"intent": "StartingEquipmentInGame",
+			"slots": [
+				{
+					"name": "Type",
+					"type": "EQUPIMENT_TYPE"
+				},
+				{
+					"name": "Game",
+					"type": "BOARD_GAME_NAMES"
+				}
+			]
+		},
+		{
+			"intent": "MaxAllowedEquipmentInGame",
+			"slots": [
+				{
+					"name": "Type",
+					"type": "EQUPIMENT_TYPE"
+				},
+				{
+					"name": "Game",
+					"type": "BOARD_GAME_NAMES"
+				}
+			]
+		},
+		{
+			"intent": "WhoStartsGame",
+			"slots": [
+				{
+					"name": "Game",
+					"type": "BOARD_GAME_NAMES"
+				}
+			]
+		},
+		{
+			"intent": "WhenGameEnds",
+			"slots": [
+				{
+					"name": "Game",
+					"type": "BOARD_GAME_NAMES"
+				}
+			]
+		},
+		{
+			"intent": "CommonRuleViolations",
+			"slots": [
+				{
+					"name": "Rule",
+					"type": "GAME_RULE_TYPES"
+				},
+				{
+					"name": "Game",
+					"type": "BOARD_GAME_NAMES"
+				}
+			]
+		}
+	]
+}

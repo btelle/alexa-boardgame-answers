@@ -1,0 +1,14 @@
+{
+	"name": "Pandemic",
+	"num_players": "two to six",
+	"starting_equipment": 
+	{
+		"cards": "three",
+		"role_cards": "one",
+		"epidemic_cards": "four to six"
+	},
+	"max_equipment":
+	{
+		"cards": "seven"
+	}
+}

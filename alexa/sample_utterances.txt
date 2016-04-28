@@ -1,0 +1,8 @@
+StartingEquipmentInGame how many {Type} do you get in {Game}
+StartingEquipmentInGame how much {Type} do you get in {Game}
+StartingEquipmentInGame how many {Type} do I get in {Game}
+StartingEquipmentInGame how much {Type} do I get in {Game}
+StartingEquipmentInGame how many {Type} do you start with in {Game}
+StartingEquipmentInGame how much {Type} do you start with in {Game}
+StartingEquipmentInGame how many {Type} do I start with in {Game}
+StartingEquipmentInGame how much {Type} do I start with in {Game}
