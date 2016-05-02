@@ -1,9 +1,18 @@
 {
 	"name": "Pandemic",
-	"num_players": "two to six",
+	"num_players": "two to four",
 	"starting_equipment": 
 	{
-		"cards": "three",
+		"cards": {
+			"follow-up": {
+				"question": "How many people are playing?",
+				"answers": {
+					"two": "four",
+					"three": "three",
+					"four": "two"
+				}
+			}
+		},
 		"role_cards": "one",
 		"epidemic_cards": "four to six"
 	},

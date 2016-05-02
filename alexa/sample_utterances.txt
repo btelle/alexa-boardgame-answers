@@ -1,3 +1,6 @@
+StartingEquipmentInGame {two|Followup}
+StartingEquipmentInGame {three|Followup}
+StartingEquipmentInGame {four|Followup}
 StartingEquipmentInGame how many {Type} do you get in {Game}
 StartingEquipmentInGame how much {Type} do you get in {Game}
 StartingEquipmentInGame how many {Type} do I get in {Game}

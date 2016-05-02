@@ -10,7 +10,11 @@
 				{
 					"name": "Game",
 					"type": "BOARD_GAME_NAMES"
-				}
+				},
+				{
+                  	"name": "Followup",
+                  	"type": "AMAZON.LITERAL"
+              	}
 			]
 		},
 		{

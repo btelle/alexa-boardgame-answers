@@ -4,6 +4,8 @@ Cards
 Blocks
 Houses
 Dollars
+Role Cards
+Epidemic Cards
 
 BOARD_GAME_NAMES
 Pandemic
