@@ -18,6 +18,15 @@
 			]
 		},
 		{
+			"intent": "NumberOfPlayers",
+			"slots": [
+				{
+					"name": "Game",
+					"type": "BOARD_GAME_NAMES"
+				}
+			]
+		},
+		{
 			"intent": "MaxAllowedEquipmentInGame",
 			"slots": [
 				{

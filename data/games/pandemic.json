@@ -19,5 +19,6 @@
 	"max_equipment":
 	{
 		"cards": "seven"
-	}
+	},
+	"who_starts_game": "The player who has drawn the city card with the highest population"
 }
