@@ -1,0 +1,12 @@
+{
+	"name": "Ticket to Ride",
+	"num_players": "two to five",
+	"starting_equipment": 
+	{
+		"cards": "four",
+		"destination_cards": "at least two",
+		"trains": "one set of 45"
+	},
+	"who_starts_game": "The most well-travelled player",
+	"when_game_ends": "The game ends when any player has fewer than three trains remaining. One last turn is taken by each player after the end of the game is triggered."
+}

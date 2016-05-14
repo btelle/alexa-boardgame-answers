@@ -2,5 +2,6 @@
 	"StartingEquipmentInGame": "You start with %(answer)s %(type)s.",
 	"NumberOfPlayers": "%(answer)s players can play %(game)s.",
 	"MaxAllowedEquipmentInGame": "You are allowed to have %(answer)s %(type)s.",
-	"WhoStartsGame": "%(answer)s starts the game."
+	"WhoStartsGame": "%(answer)s starts the game.",
+	"WhenGameEnds": "%(answer)s"
 }

@@ -6,13 +6,12 @@ Houses
 Dollars
 Role Cards
 Epidemic Cards
+Trains
+Destination Cards
 
 BOARD_GAME_NAMES
 Pandemic
-Monopoly
 Ticket To Ride
-Parcheesi
-Boss Monster
 Exploding Kittens
 
 GAME_RULE_TYPES

@@ -20,5 +20,6 @@
 	{
 		"cards": "seven"
 	},
-	"who_starts_game": "The player who has drawn the city card with the highest population"
+	"who_starts_game": "The player who has drawn the city card with the highest population",
+	"when_game_ends": "The game is won when all four diseases are cured. The game is lost when there are no more player cards to draw, there are no remaining disease cubes that must be placed on the board, or the maximum number of outbreaks have occurred."
 }

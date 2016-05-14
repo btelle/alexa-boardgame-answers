@@ -9,6 +9,14 @@ StartingEquipmentInGame how many {Type} do you start with in {Game}
 StartingEquipmentInGame how much {Type} do you start with in {Game}
 StartingEquipmentInGame how many {Type} do I start with in {Game}
 StartingEquipmentInGame how much {Type} do I start with in {Game}
+StartingEquipmentInGame how many {Type} you get in {Game}
+StartingEquipmentInGame how much {Type} you get in {Game}
+StartingEquipmentInGame how many {Type} I get in {Game}
+StartingEquipmentInGame how much {Type} I get in {Game}
+StartingEquipmentInGame how many {Type} you start with in {Game}
+StartingEquipmentInGame how much {Type} you start with in {Game}
+StartingEquipmentInGame how many {Type} I start with in {Game}
+StartingEquipmentInGame how much {Type} I start with in {Game}
 NumberOfPlayers how many people can play {Game}
 NumberOfPlayers how many players are allowed in {Game}
 NumberOfPlayers how many people do you need to play {Game}
@@ -19,3 +27,6 @@ MaxAllowedEquipmentInGame how much {Type} are you allowed to have in {Game}
 WhoStartsGame who starts in {Game}
 WhoStartsGame who goes first in {Game}
 WhoStartsGame how do you choose who goes first in {Game}
+WhenGameEnds when does {Game} end
+WhenGameEnds when {Game} ends
+WhenGameEnds how I win {Game}

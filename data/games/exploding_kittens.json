@@ -1,0 +1,11 @@
+{
+	"name": "Exploding Kittens",
+	"num_players": "two to five",
+	"starting_equipment": 
+	{
+		"cards": "one defuse card and four regular",
+		"defuse_cards": "one"
+	},
+	"who_starts_game": "Any player",
+	"when_game_ends": "The game ends when only one player has not exploded"
+}

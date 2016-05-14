@@ -36,7 +36,11 @@
 				{
 					"name": "Game",
 					"type": "BOARD_GAME_NAMES"
-				}
+				},
+				{
+                  	"name": "Followup",
+                  	"type": "AMAZON.LITERAL"
+              	}
 			]
 		},
 		{
@@ -51,19 +55,6 @@
 		{
 			"intent": "WhenGameEnds",
 			"slots": [
-				{
-					"name": "Game",
-					"type": "BOARD_GAME_NAMES"
-				}
-			]
-		},
-		{
-			"intent": "CommonRuleViolations",
-			"slots": [
-				{
-					"name": "Rule",
-					"type": "GAME_RULE_TYPES"
-				},
 				{
 					"name": "Game",
 					"type": "BOARD_GAME_NAMES"
