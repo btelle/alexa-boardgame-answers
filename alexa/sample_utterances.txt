@@ -30,3 +30,5 @@ WhoStartsGame how do you choose who goes first in {Game}
 WhenGameEnds when does {Game} end
 WhenGameEnds when {Game} ends
 WhenGameEnds how I win {Game}
+SupportedGames what games do you know
+SupportedGames what games are supported

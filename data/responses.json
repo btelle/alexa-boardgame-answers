@@ -3,5 +3,6 @@
 	"NumberOfPlayers": "%(answer)s players can play %(game)s.",
 	"MaxAllowedEquipmentInGame": "You are allowed to have %(answer)s %(type)s.",
 	"WhoStartsGame": "%(answer)s starts the game.",
-	"WhenGameEnds": "%(answer)s"
+	"WhenGameEnds": "%(answer)s",
+	"HelpIntent": "Board games answers questions about the rules of your favorite table top games. Ask a question like, how many cards do I start with in Pandemic? To hear supported games, ask board games what games do you know?"
 }

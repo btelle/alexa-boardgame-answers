@@ -1,6 +1,18 @@
 {
 	"intents":[
 		{
+      		"intent": "AMAZON.StopIntent"
+   		},
+   		{
+      		"intent": "AMAZON.CancelIntent"
+   		},
+   		{
+      		"intent": "AMAZON.HelpIntent"
+   		},
+   		{
+      		"intent": "SupportedGames"
+   		},
+		{
 			"intent": "StartingEquipmentInGame",
 			"slots": [
 				{
