@@ -1,10 +1,5 @@
 {
     "session": {
-		"attributes": {
-			"PreviousIntentGame": "Pandemic", 
-			"PreviousIntentType": "Cards", 
-			"PreviousIntent": "StartingEquipmentInGame"
-		},
 		"sessionId": "SessionId.d461672c-2997-4d9d-9a8c-a67834acb9aa",
 		"application": {
 			"applicationId": "amzn1.echo-sdk-ams.app.a306b3a3-3331-43c1-87bd-87d29d16fac8"
@@ -15,23 +10,9 @@
 		"new": false
     },
     "request": {
-		"type": "IntentRequest",
+		"type": "SessionEndedRequest",
 		"requestId": "EdwRequestId.b22db637-b8f9-43c0-ae0c-1a9b35a02610",
 		"timestamp": 1447911387582,
-		"intent": {
-			"name": "StartingEquipmentInGame",
-			"slots": {
-				"Game": {
-					"name": "Game"
-				},
-				"Type": { 
-					"name": "Type"
-				},
-				"Followup": {
-					"name": "Followup",
-					"value": "three"
-				}
-			}
-		}
+		"reason": "EXCEEDED_MAX_REPROMPTS"
     }
 }
