@@ -5,6 +5,7 @@
 	{
 		"cards": "four",
 		"destination_cards": "at least two",
+		"route_cards": "at least two",
 		"trains": "one set of 45"
 	},
 	"who_starts_game": "The most well-travelled player",

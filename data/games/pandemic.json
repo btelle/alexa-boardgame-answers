@@ -10,7 +10,8 @@
 					"two": "four",
 					"three": "three",
 					"four": "two"
-				}
+				},
+				"default": "You must have two to four players to play Pandemic."
 			}
 		},
 		"role_cards": "one",
