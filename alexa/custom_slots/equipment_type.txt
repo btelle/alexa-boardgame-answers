@@ -8,3 +8,4 @@ Epidemic Cards
 Trains
 Destination Cards
 Route Cards
+Money

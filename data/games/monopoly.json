@@ -1,0 +1,10 @@
+{
+	"name": "Monopoly",
+	"num_players": "two to eight",
+	"starting_equipment": 
+	{
+		"money": "one thousand five hundred dollars divided as follows: two each of 500's, 100's and 50's; six 20's; five each of 10's, 5's and 1's"
+	},
+	"who_starts_game": "The banker",
+	"when_game_ends": "The game ends when all but one player goes bankrupt. You may also play a shorter version of the game that ends when any player goes bankrupt. In the short version, player's remaining money and property values are combined and the player with the highest net worth is the winner."
+}
