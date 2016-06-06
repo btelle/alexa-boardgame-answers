@@ -17,7 +17,7 @@
 			"slots": [
 				{
 					"name": "Type",
-					"type": "EQUPIMENT_TYPE"
+					"type": "EQUIPMENT_TYPE"
 				},
 				{
 					"name": "Game",
@@ -43,7 +43,7 @@
 			"slots": [
 				{
 					"name": "Type",
-					"type": "EQUPIMENT_TYPE"
+					"type": "EQUIPMENT_TYPE"
 				},
 				{
 					"name": "Game",
