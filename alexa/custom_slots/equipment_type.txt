@@ -11,3 +11,6 @@ Route Cards
 Money
 Weapons
 Pegs
+Pawns
+Letters
+Tiles

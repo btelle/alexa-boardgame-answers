@@ -1,0 +1,11 @@
+{
+	"name": "Parcheesi",
+	"num_players": "two to four",
+	"starting_equipment": 
+	{
+		"pawns": "four",
+		"dice": "two"
+	},
+	"who_starts_game": "any player",
+	"when_game_ends": "The game ends when one player gets all four of their pawns into the maple leaf space."
+}
