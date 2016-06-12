@@ -7,3 +7,4 @@ Parcheesi
 Scrabble
 Sorry
 The Game of Life
+Yahtzee
