@@ -1,0 +1,11 @@
+# Data Sources
+* [Pandemic [PDF]](http://www.zmangames.com/uploads/4/7/1/7/47170931/pandemic.pdf)
+* [Exploding Kittens](http://www.explodingkittens.com/how)
+* [Ticket to Ride [PDF]](https://cdn1.daysofwonder.com/tickettoride/en/img/tt_rules_2015_en.pdf)
+* [Monopoly [PDF]](http://www.hasbro.com/common/instruct/monins.pdf)
+* [Clue [PDF]](http://www.hasbro.com/common/instruct/Clue_%282002%29.pdf)
+* [The Game of LIFE [PDF]](http://www.hasbro.com/common/instruct/life.pdf)
+* [Sorry! [PDF]](http://www.hasbro.com/common/instruct/Sorry.pdf)
+* [Parcheesi [PDF]](http://www.hasbro.com/common/instruct/Parchessi.pdf)
+* [Scrabble [PDF]](http://www.hasbro.com/common/instruct/Scrabble_%282003%29.pdf)
+* [Yahtzee [PDF]](http://www.hasbro.com/common/instruct/Yahtzee.pdf)
