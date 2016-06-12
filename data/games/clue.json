@@ -1,0 +1,11 @@
+{
+	"name": "Clue",
+	"num_players": "three to six",
+	"starting_equipment": 
+	{
+		"cards": "all remaining cards in the deck, dealt to all players evenly. It is ok if some players have more",
+		"weapons": "six"
+	},
+	"who_starts_game": "Miss Scarlet",
+	"when_game_ends": "The first person to correctly guess all three hidden cards wins the game. Players who guess incorrectly can not move anymore, but continue to show cards for other players."
+}

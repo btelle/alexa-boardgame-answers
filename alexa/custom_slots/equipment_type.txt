@@ -8,3 +8,10 @@ Epidemic Cards
 Trains
 Destination Cards
 Route Cards
+Money
+Weapons
+Pegs
+Pawns
+Letters
+Tiles
+Score Cards

@@ -1,0 +1,11 @@
+{
+	"name": "Scrabble",
+	"num_players": "two to four",
+	"starting_equipment": 
+	{
+		"tiles": "seven",
+		"letters": "seven"
+	},
+	"who_starts_game": "Each player draws one tile, the player whose tile is closest to A",
+	"when_game_ends": "The game ends when all tiles have been drawn or all remaining moves have been played."
+}

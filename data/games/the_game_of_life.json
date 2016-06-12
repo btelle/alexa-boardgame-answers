@@ -1,0 +1,10 @@
+{
+	"name": "The Game of LIFE",
+	"num_players": "two to eight",
+	"starting_equipment": 
+	{
+		"pegs": "one"
+	},
+	"who_starts_game": "All players spin the wheel, the player who spins the highest number",
+	"when_game_ends": "The game ends when all players reach retirement. The player with the highest combined cash and LIFE tile value wins."
+}

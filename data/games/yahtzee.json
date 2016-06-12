@@ -1,0 +1,11 @@
+{
+	"name": "Yahtzee",
+	"num_players": "one or more",
+	"starting_equipment": 
+	{
+		"dice": "five",
+		"score_cards": "one"
+	},
+	"who_starts_game": "all players roll 5 dice, the player who rolls the highest combination",
+	"when_game_ends": "The game ends when all players have filled in all thirteen boxes on their score cards."
+}
