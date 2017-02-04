@@ -1,0 +1,43 @@
+{
+	“name”: “Dominion”,
+	“num_players”: “two to four”,
+	“starting_equipment”:
+	{
+		“cards”: {
+			“follow-up”: {
+				“question:”: “How many people are playing?”,
+				“answers”: {
+					“two”: “Each player should receive seven Copper cards and two Estate cards. In the supply there should be eight of each Victory Card, ten Curse Cards, ten sets of ten Kingdom cards, and all of the remaining Treasure Cards”,
+					“three”: “Each player should receive seven Copper cards and two Estate cards. In the supply there should be twelve of each Victory Card, twenty Curse Cards, ten sets of ten Kingdom cards, and all of the remaining Treasure Cards”,
+					“four”: “Each player should receive seven Copper cards and two Estate cards. In the supply there should be twelve of each Victory Card, thirty Curse Cards, ten sets of ten Kingdom cards, and all of the remaining Treasure Cards”
+					},
+				“default”: “You must have two to four players to play Dominion.”
+				}
+
+			},
+		“victory_cards”: {
+				“question”: “How many people are playing?”,
+				“answers”: {
+					“two”: “eight”,
+					“three”: “twelve”,
+					“four”: “two”
+					},
+				“default”: “You must have two to four players to play Dominion.”
+				},
+		“curse_cards”: {
+				“question:”How many people are playing?”,
+				“answers”: {
+					“two”: “ten”,
+					“three”: “twenty”,
+					“four”: “thirty”
+					},
+				“default”: “You must have two to four players to play Dominion.”
+				},
+		“supply_cards”: “Ten sets of ten”,
+		“kingdom_cards”: “Ten sets of ten”,
+		“copper_cards”: “seven”,
+		“estate_cards”: “three”
+	},
+	“who_starts_game”: “Randomly determine the starting player. When playing multiple games, the starting player is the player to the left of the winner of the last game”,
+	“when_game_ends”: “The game ends when either the Supply pile of Province cards is empty or any three Supply piles are empty. The player with the most victory points wins. If the highest scores are tied, the player who has had the fewest turns wins the game. If the tied players have had the same number of turns, they may both rejoice in their shared victory.”
+}
