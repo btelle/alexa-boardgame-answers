@@ -19,18 +19,10 @@ StartingEquipmentInGame how many {Type} I start with in {Game}
 StartingEquipmentInGame how much {Type} I start with in {Game}
 StartingEquipmentInGame how many {Type} do we get in {Game}
 StartingEquipmentInGame how much {Type} do we get in {Game}
-StartingEquipmentInGame how many {Type} do we get in {Game}
-StartingEquipmentInGame how much {Type} do we get in {Game}
-StartingEquipmentInGame how many {Type} do we start with in {Game}
-StartingEquipmentInGame how much {Type} do we start with in {Game}
 StartingEquipmentInGame how many {Type} do we start with in {Game}
 StartingEquipmentInGame how much {Type} do we start with in {Game}
 StartingEquipmentInGame how many {Type} we get in {Game}
 StartingEquipmentInGame how much {Type} we get in {Game}
-StartingEquipmentInGame how many {Type} we get in {Game}
-StartingEquipmentInGame how much {Type} we get in {Game}
-StartingEquipmentInGame how many {Type} we start with in {Game}
-StartingEquipmentInGame how much {Type} we start with in {Game}
 StartingEquipmentInGame how many {Type} we start with in {Game}
 StartingEquipmentInGame how much {Type} we start with in {Game}
 NumberOfPlayers how many people can play {Game}
