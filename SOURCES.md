@@ -9,3 +9,4 @@
 * [Parcheesi [PDF]](http://www.hasbro.com/common/instruct/Parchessi.pdf)
 * [Scrabble [PDF]](http://www.hasbro.com/common/instruct/Scrabble_%282003%29.pdf)
 * [Yahtzee [PDF]](http://www.hasbro.com/common/instruct/Yahtzee.pdf)
+* [Dominion [PDF]](http://riograndegames.com/uploads/Game/Game_278_gameRules.pdf)
