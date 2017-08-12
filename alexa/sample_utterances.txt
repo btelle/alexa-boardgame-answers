@@ -40,3 +40,4 @@ WhenGameEnds when {Game} ends
 WhenGameEnds how I win {Game}
 SupportedGames what games do you know
 SupportedGames what games are supported
+ReadIntroduction
