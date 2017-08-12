@@ -21,3 +21,4 @@ Supply Cards
 Curse Cards
 Copper Cards
 Estate Cards
+Token
