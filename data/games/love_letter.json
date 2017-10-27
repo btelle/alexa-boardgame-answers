@@ -14,3 +14,5 @@
 					"four": "The first player to have four tokens wins the game"
 				},
 				"default": "You must have two to four players to play Love Letter."
+		}
+}

@@ -9,3 +9,4 @@ Sorry
 The Game of Life
 Yahtzee
 Dominion
+Love Letter
