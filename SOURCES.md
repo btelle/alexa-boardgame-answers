@@ -10,3 +10,4 @@
 * [Scrabble [PDF]](http://www.hasbro.com/common/instruct/Scrabble_%282003%29.pdf)
 * [Yahtzee [PDF]](http://www.hasbro.com/common/instruct/Yahtzee.pdf)
 * [Dominion [PDF]](http://riograndegames.com/uploads/Game/Game_278_gameRules.pdf)
+* [Love Letters[PDF]](https://www.alderac.com/tempest/files/2012/09/Love_Letter_Rules_Final.pdf)

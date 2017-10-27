@@ -72,6 +72,15 @@
 					"type": "BOARD_GAME_NAMES"
 				}
 			]
+		},
+		{
+			"intent": "ReadIntroduction",
+			"slots": [
+				{
+					"name": "Game",
+					"type": "BOARD_GAME_NAMES"
+				}
+			]
 		}
 	]
 }

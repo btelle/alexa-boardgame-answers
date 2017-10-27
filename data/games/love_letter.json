@@ -1,0 +1,21 @@
+{
+	"name": "Love Letter",
+	"num_players": "two to four",
+	"player_ages": "ten and up",
+	"starting_equipment": {
+		"cards": "Each player draws one card from the deck."
+	},
+	"who_starts_game": "Whoever was most recently on a date",
+	"read_introduction": "Once upon a time, there was a kingdom in which lived a beautiful princess. She was a sweet soul, kind to all and was thus loved by the whole of the kingdom. Several young men had fallen helplessly in love with the princess, but unable to enter the castle, all they could do was send her letters of their affection. However, to their dismay, they found that letters from just anyone would not reach the princess. So the young would be suitors set themselves on finding allies among the castle’s servants, so that they might deliver their letter to the princess personally.",
+	"when_game_ends": {
+		"follow-up": {
+				"question": "How many people are playing?",
+				"answers": {
+					"two": "The first player to have seven tokens wins the game",
+					"three": "The first player to have five tokens wins the game",
+					"four": "The first player to have four tokens wins the game"
+				},
+				"default": "You must have two to four players to play Love Letter."
+		}
+	}
+}
