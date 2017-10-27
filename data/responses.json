@@ -5,6 +5,6 @@
 	"WhoStartsGame": "%(answer)s starts the game.",
 	"WhenGameEnds": "%(answer)s",
 	"SupportedGames": "These are the games I know: %(answer)s",
-	"WelcomeIntent": "Board games answers questions about the rules of your favorite table top games. Ask a question like, how many cards do I start with in Pandemic? What would you like to know?",
-	"HelpIntent": "Ask Board Games questions about the rules of table top games. Ask a question like how many route cards do I start with in Ticket to Ride or when does Pandemic end? You can hear which games are supported by asking what games do you know?"
+	"WelcomeIntent": "Board games answers questions about the rules of your favorite table top games. Ask a question like, how many dice do I start with in Yahtzee? What would you like to know?",
+	"HelpIntent": "Ask Board Games questions about the rules of table top games. Ask a question like how many route cards do I start with in Ticket to Ride or when does Monopoly end? You can hear which games are supported by asking what games do you know?"
 }

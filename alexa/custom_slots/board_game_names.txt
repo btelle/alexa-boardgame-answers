@@ -8,3 +8,4 @@ Scrabble
 Sorry
 The Game of Life
 Yahtzee
+Dominion
