@@ -6,9 +6,9 @@
                         "follow-up": {
                                 "question": "How many people are playing?",
                                 "answers": {
-                                        "two": "seven Copper cards and two Estate cards in hand. In the supply there should be eight of each Victory Card, ten Curse Cards, ten sets of ten Kingdom cards, and all of the remaining Treasure",
-                                        "three": "seven Copper cards and two Estate cards. In the supply there should be twelve of each Victory Card, twenty Curse Cards, ten sets of ten Kingdom cards, and all of the remaining Treasure",
-                                        "four": "seven Copper cards and two Estate cards. In the supply there should be twelve of each Victory Card, thirty Curse Cards, ten sets of ten Kingdom cards, and all of the remaining Treasure"
+                                        "two": "seven Copper cards and three Estate cards in hand. In the supply there should be eight of each Victory Card, ten Curse Cards, ten sets of ten Kingdom cards, and all of the remaining Treasure",
+                                        "three": "seven Copper cards and three Estate cards. In the supply there should be twelve of each Victory Card, twenty Curse Cards, ten sets of ten Kingdom cards, and all of the remaining Treasure",
+                                        "four": "seven Copper cards and three Estate cards. In the supply there should be twelve of each Victory Card, thirty Curse Cards, ten sets of ten Kingdom cards, and all of the remaining Treasure"
                                      }
                                            }
                                            },
